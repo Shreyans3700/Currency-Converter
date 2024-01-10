@@ -49,7 +49,9 @@ Follow these instructions to get a copy of the project up and running on your lo
    cd currency-converter
 3. **Install Dependencies**
    ```bash
-   npm install || npm i
+   npm install
+   ```bash
+   npm i
 4. **Run the Application**
    ```bash
    npm run dev
